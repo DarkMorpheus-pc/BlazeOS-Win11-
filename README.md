@@ -7,7 +7,7 @@ Amaç: Microsoft’un şişirdiği sistemi **gerçekten kullanılabilir** hale g
 > Sistem seviyesinde temizlik ve optimizasyon içerir.
 
 🌐 Resmi Kurulum Sayfası  
-👉 https://DarkMorpheus-pc.github.io/BlazeOS-Win11
+👉 https://DarkMorpheus-pc.github.io/BlazeOS-Win11-
 
 ---
 
@@ -59,7 +59,7 @@ Amaç: Microsoft’un şişirdiği sistemi **gerçekten kullanılabilir** hale g
 3. BlazeOS Win11 paketini uygula
 
 👉 Kurulum dosyaları:  
-https://DarkMorpheus-pc.github.io/BlazeOS-Win11
+https://DarkMorpheus-pc.github.io/BlazeOS-Win11-
 
 ---
 
