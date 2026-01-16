@@ -7,7 +7,7 @@ Amaç: Microsoft’un şişirdiği sistemi **gerçekten kullanılabilir** hale g
 > Sistem seviyesinde temizlik ve optimizasyon içerir.
 
 🌐 Resmi Kurulum Sayfası  
-👉 https://github.com/DarkMorpheus-pc/BlazeOS-Win11- (torrent daha hızlı bir şekilde isoyu yükle)
+👉 https://github.com/DarkMorpheus-pc/BlazeOS-Win11- (torrent daha hızlı bir şekilde isoyu yükle) 
 👉 https://archive.org/details/blaze-os-pro-t-1-w-1  (direk iso formatında fakat daha yavaş yüklenebilir)
 
 ---
@@ -17,8 +17,9 @@ Amaç: Microsoft’un şişirdiği sistemi **gerçekten kullanılabilir** hale g
 - 🧹 Gereksiz Windows bileşenleri devre dışı
 - ⚡ Daha hızlı açılış ve düşük RAM kullanımı
 - 🧠 Arka planda çalışan saçma servisler kapalı
-- 🎮 Oyun ve günlük kullanım için optimize
+- 🎮 Oyun ve günlük kullanım için optimize 
 - 🛠 Geliştirici ve ileri seviye kullanıcı odaklı
+- dotnet c++ hazır gelmesi sayesinde zahmetsiz ve daha rahat bir kullanım sunar
 
 
 ---
