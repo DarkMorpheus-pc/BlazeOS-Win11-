@@ -37,7 +37,7 @@ Amaç: Microsoft’un şişirdiği sistemi **gerçekten kullanılabilir** hale g
 
 **Minimum**
 - Windows 11 destekli CPU
-- 2 GB RAM
+- 2 GB RAM (  Rufustan kapatmalısınız bu gereksinimi özellikle kaldırmama nedenim Korsan Windows durumuna düşmeyi engellemek ve kullanıcıların rahatlıkla aktivasyon yapmasına olanak tanımaktır)
 - 50 GB disk alanı
 
 **Önerilen**
